@@ -1,0 +1,6 @@
+Material Symbols by Google
+https://github.com/google/material-design-icons
+License: Apache-2.0
+Pinned commit: 10ecc14790612ca8fd164e3f4ffe9c16fc50d5b7
+
+A fill attribute was added to the root <svg> of check-circle.svg (#1a73e8) and star.svg (#f9ab00). No other icon file was recolored. The other icons stay byte-identical to that commit and are coloured with CSS.
